@@ -91,6 +91,8 @@ To understand the concept, let us look at the example in [merkletree.js](https:/
     ```
     
     The `verify` method of the `MerkleTree` class is used to check if the `claimingAddress` can be verified against the `rootHash` using the `hexProof`. It returns `true` if the verification is successful, indicating that the address is part of the Merkle tree, and `false` otherwise. The result is printed to the console.
+
+    When you run the code, this is the output that you will get ![output](output.png) , since it is a part of the tree, you get the response as `true`.
     
 
 With this simple example, you learn the basic concept of Merkle tress, and how it is used in Web3.
