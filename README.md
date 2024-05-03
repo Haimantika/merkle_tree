@@ -15,7 +15,7 @@ The same concept is applied in Web3 technology. Merkle trees are utilized for ha
 
 A Merkle proof verifies specific transactions represented by a leaf or branch hash within a Merkle hash root. This allows anyone to demonstrate that a transaction was indeed part of the blockchain at a certain point in time by providing a Merkle proof.
 
-To understand the concept, let us look at the example in \[\]() file.
+To understand the concept, let us look at the example in [merkletree.js](https://github.com/Haimantika/merkle_tree/blob/main/merkletree.js) file.
 
 1. **Import Libraries**:
     
